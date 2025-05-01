@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-url-params-template",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Construct URL params with URLSearchParams not template literals",
   "keywords": [
     "url",
